@@ -22,8 +22,8 @@ Usando o framework Spring deverá ser criada uma API que permita a realização 
 
 ### Pede-se ainda: 
 
-a)	implementar o VO/DTO para a transição dos dados relacionados às operações CRUD de Pedidos, Produtos e Categorias;
-b)	configurar o Swagger para acesso à API.
+1. implementar o VO/DTO para a transição dos dados relacionados às operações CRUD de Pedidos, Produtos e Categorias;
+2. configurar o Swagger para acesso à API.
 
 Não será necessário:
 a)	implementar controle de usuário e/ou segurança.
