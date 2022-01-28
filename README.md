@@ -26,6 +26,7 @@ Usando o framework Spring deverá ser criada uma API que permita a realização 
 2. configurar o Swagger para acesso à API.
 
 Não será necessário:
+
 a)	implementar controle de usuário e/ou segurança.
 
 ## III.	FRONTEND
