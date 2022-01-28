@@ -31,4 +31,6 @@ Usando React deverão ser implementadas as telas que consumam a API acima e perm
 2.	Produtos;
 3.	Categorias;
 4.	Cliente + Endereço
-OBS: as telas precisão ser responsivas. Logo, deverá ser utilizado o framework “react-bootstrap” (https://react-bootstrap.github.io/).
+
+
+### OBS: as telas precisão ser responsivas. Logo, deverá ser utilizado o framework “react-bootstrap” (https://react-bootstrap.github.io/).
