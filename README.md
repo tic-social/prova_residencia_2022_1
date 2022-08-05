@@ -39,3 +39,10 @@ Usando React deverão ser implementadas as telas que consumam a API acima e perm
 
 
 ### OBS: as telas precisarão ser responsivas. Logo, deverá ser utilizado o framework “react-bootstrap” (https://react-bootstrap.github.io/).
+
+
+## IV.	APP
+
+Usando React Native deverá ser criado um aplicativo mobile com as seguintes funcionalidades:
+1.	Duas páginas: listagem e cadastro de produto (usando a API acima);
+2.	Um componente de navegação entre as páginas acima;
